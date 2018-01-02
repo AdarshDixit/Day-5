@@ -1,0 +1,42 @@
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\ApplicationInsights.config
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\Day 4.dll.config
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\Day 4.dll
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\Day 4.pdb
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\Antlr3.Runtime.dll
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\Microsoft.AI.Web.dll
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\Newtonsoft.Json.dll
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\System.Web.Helpers.dll
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\System.Web.Mvc.dll
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\System.Web.Optimization.dll
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\System.Web.Razor.dll
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\System.Web.WebPages.dll
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\System.Web.WebPages.Razor.dll
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\WebGrease.dll
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\System.Web.Helpers.xml
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\System.Web.Mvc.xml
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\System.Web.Optimization.xml
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\System.Web.Razor.xml
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\System.Web.WebPages.xml
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\System.Web.WebPages.Razor.xml
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\Antlr3.Runtime.pdb
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\Newtonsoft.Json.xml
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Learning\source\repos\Day 4\Day 4\bin\Microsoft.AI.Web.xml
+C:\Users\Learning\source\repos\Day 4\Day 4\obj\Debug\Day 4.csprojResolveAssemblyReference.cache
+C:\Users\Learning\source\repos\Day 4\Day 4\obj\Debug\Day 4.csproj.CoreCompileInputs.cache
+C:\Users\Learning\source\repos\Day 4\Day 4\obj\Debug\Day 4.dll
+C:\Users\Learning\source\repos\Day 4\Day 4\obj\Debug\Day 4.pdb
